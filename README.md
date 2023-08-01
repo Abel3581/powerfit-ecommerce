@@ -1,6 +1,41 @@
 <h6 align="center">Cohorte 12 - Equipo 09 - Java - Angular</h1>
 
 # Power Fit E-commerce
+- Link deploy front-end: https://power-fit-v3.netlify.app
+- Link deploy back-end: https://powerfit-app.azurewebsites.net/swagger-ui.html
+- Link al diseño en Figma: https://www.figma.com/file/yQZBpW6yRlUEzgfOYvue3D/Power-Fit?type=design&mode=design
+
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dqhhm6kke/image/upload/c_scale,w_712/v1690428404/power_fit_pdf_presentacion-1_page-0001_mdgnjo.jpg" alt="img-intro-powerfit">
+</p>
+  
+Somos un ecommerce especializado en suplementos, equipamiento y ropa deportiva, diseñado para ayudarte a alcanzar tus objetivos y llevar tu rendimiento al siguiente nivel. <br> Nuestro objetivo principal es brindarte una experiencia de compra excepcional, donde puedas encontrar todo lo que necesitas para potenciar tu entrenamiento y mejorar tu estilo de vida activo.
+<br>
+
+## Tecnologías utilizadas:
+
+### Front-end:
+- Figma
+- Angular
+- Typescript
+- HTML5
+- CSS3
+- Bootstrap
+- Netlify (deploy)
+
+### Back-end:
+- Java 17
+- Spring (Boot 2.7.13, Security, DataJPA)
+- Hibernate
+- AWS S3
+- JWT
+- Lombok
+- Mercado Pago Java SDK
+- MySQL8
+- Postman
+- Swagger
+- Microsoft Azure (deploy)
 
 
 <br>
