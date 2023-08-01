@@ -1,0 +1,5 @@
+# Created at 2023-07-31T23:24:31.014
+Boot Manifest-JAR contains absolute paths in classpath 'D:\NoCountry-fullStack\C12-09-ft-nuevo\C12-09-FT-Java-Angular\back-end\powerfit\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
